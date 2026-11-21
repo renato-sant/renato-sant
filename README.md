@@ -4,38 +4,39 @@
 
 </div>
 
-### Oi, eu sou o Renato 👋
+### Oi, eu sou o Renato
 
 Desenvolvo sistemas de gestão para empresas reais e também cuido da infraestrutura onde eles rodam:
 do código ao servidor, da rede ao backup.
 
-- 🛠️ **ERPs e sistemas web** com Python, Django e PostgreSQL, feitos primeiro para o celular (PWA)
-- 🦀 **Ferramentas para Windows** em Rust
-- 🖧 **Infra e sysadmin:** Linux, Windows/AD, redes, MikroTik, monitoramento com Zabbix
-- 🔐 **Segurança e LGPD** desde o começo do projeto: criptografia, auditoria, controle de acesso
-- 🤖 Uso agentes de IA no dia a dia para planejar, revisar e testar
+- **ERPs e sistemas web** com Python, Django e PostgreSQL, feitos primeiro para o celular (PWA)
+- **Ferramentas para Windows** em Rust
+- **Infra e sysadmin:** Linux, Windows/AD, redes, MikroTik, monitoramento com Zabbix
+- **Segurança e LGPD** desde o começo do projeto: criptografia, auditoria, controle de acesso
+- Uso agentes de IA no dia a dia para planejar, revisar e testar
 
-### 🧰 Stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,postgres,rust,docker,nginx,linux,windows,git,bash&perline=10" alt="Python, Django, PostgreSQL, Rust, Docker, nginx, Linux, Windows, Git, Bash" />
 </p>
 
-### 🎓 Certificados
+### Certificados
 
-**Redes e cibersegurança**
+<table>
+  <tr>
+    <td align="center" width="140"><img src="assets/cisco.svg" width="48" alt="Cisco" /><br /><sub><b>Network Technician Career Path</b><br />Cisco · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/cisco.svg" width="48" alt="Cisco" /><br /><sub><b>Endpoint Security</b><br />Cisco · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/alura.svg" width="48" alt="Alura" /><br /><sub><b>Formação Redes de Computadores</b><br />Alura · 2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="assets/descomplica.svg" width="48" alt="Descomplica" /><br /><sub><b>Backend Developer (160h)</b><br />Descomplica · 2024</sub></td>
+    <td align="center" width="140"><img src="assets/descomplica.svg" width="48" alt="Descomplica" /><br /><sub><b>Advanced Tester (160h)</b><br />Descomplica · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/google.svg" width="48" alt="Google" /><br /><sub><b>Imersão Dev Agentes de IA</b><br />Alura + Google · 2025</sub></td>
+  </tr>
+</table>
 
-![Cisco Network Technician Career Path](https://img.shields.io/badge/Cisco-Network_Technician_Career_Path_·_2025-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint_Security_·_2025-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Alura Redes de Computadores](https://img.shields.io/badge/Alura-Forma%C3%A7%C3%A3o_Redes_de_Computadores_·_2025-0B3C5D?style=for-the-badge)
-
-**Desenvolvimento, testes e IA**
-
-![Descomplica Backend Developer](https://img.shields.io/badge/Descomplica-Backend_Developer_160h_·_2024-00A868?style=for-the-badge)
-![Descomplica Advanced Tester](https://img.shields.io/badge/Descomplica-Advanced_Tester_160h_·_2025-00A868?style=for-the-badge)
-![Alura + Google Agentes de IA](https://img.shields.io/badge/Alura_+_Google-Imers%C3%A3o_Dev_Agentes_de_IA_·_2025-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### 📦 Projetos
+### Projetos
 
 | Projeto | O que faz | Stack |
 |---|---|---|
@@ -43,7 +44,7 @@ do código ao servidor, da rede ao backup.
 | **ERP de manutenção** *(privado)* | Clientes, equipamentos, agenda de técnicos, financeiro e estoque, com lembretes automáticos pelo WhatsApp | Django · PostgreSQL · Docker |
 | **Inventário de T.I.** *(privado)* | Unidades e ativos, monitoramento via Zabbix com alertas no Telegram e cofre de senhas criptografado (AES-256-GCM) | Django · PostgreSQL · Docker |
 
-### 📈 Atividade
+### Atividade
 
 <div align="center">
 
