@@ -25,14 +25,14 @@ do código ao servidor, da rede ao backup.
 
 <table>
   <tr>
-    <td align="center" width="140"><img src="assets/cisco.svg" width="48" alt="Cisco" /><br /><sub><b>Network Technician Career Path</b><br />Cisco · 2025</sub></td>
-    <td align="center" width="140"><img src="assets/cisco.svg" width="48" alt="Cisco" /><br /><sub><b>Endpoint Security</b><br />Cisco · 2025</sub></td>
-    <td align="center" width="140"><img src="assets/alura.svg" width="48" alt="Alura" /><br /><sub><b>Formação Redes de Computadores</b><br />Alura · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/cisco-network-technician.png" width="64" alt="Cisco Network Technician Career Path" /><br /><sub><b>Network Technician Career Path</b><br />Cisco · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/cisco-endpoint-security.png" width="64" alt="Cisco Endpoint Security" /><br /><sub><b>Endpoint Security</b><br />Cisco · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/alura.svg" width="64" alt="Alura" /><br /><sub><b>Formação Redes de Computadores</b><br />Alura · 2025</sub></td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="assets/descomplica.svg" width="48" alt="Descomplica" /><br /><sub><b>Backend Developer (160h)</b><br />Descomplica · 2024</sub></td>
-    <td align="center" width="140"><img src="assets/descomplica.svg" width="48" alt="Descomplica" /><br /><sub><b>Advanced Tester (160h)</b><br />Descomplica · 2025</sub></td>
-    <td align="center" width="140"><img src="assets/google.svg" width="48" alt="Google" /><br /><sub><b>Imersão Dev Agentes de IA</b><br />Alura + Google · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/descomplica.svg" width="64" alt="Descomplica" /><br /><sub><b>Backend Developer (160h)</b><br />Descomplica · 2024</sub></td>
+    <td align="center" width="140"><img src="assets/descomplica.svg" width="64" alt="Descomplica" /><br /><sub><b>Advanced Tester (160h)</b><br />Descomplica · 2025</sub></td>
+    <td align="center" width="140"><img src="assets/google.svg" width="64" alt="Google" /><br /><sub><b>Imersão Dev Agentes de IA</b><br />Alura + Google · 2025</sub></td>
   </tr>
 </table>
 
