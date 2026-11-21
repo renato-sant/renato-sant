@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D97757&center=true&vCenter=true&width=520&lines=Dev+full-stack+%26+sysadmin;Python+%C2%B7+Django+%C2%B7+Rust;Infraestrutura%2C+seguran%C3%A7a+e+LGPD" alt="Dev full-stack & sysadmin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D97757&center=true&vCenter=true&width=520&lines=Ciberseguran%C3%A7a;Infraestrutura+e+redes;Python+%C2%B7+Django+%C2%B7+Rust" alt="Cibersegurança, infraestrutura e redes" />
 
 </div>
 
-### Oi, eu sou o Renato
+### Sobre mim
 
-Desenvolvo sistemas de gestão para empresas reais e também cuido da infraestrutura onde eles rodam:
-do código ao servidor, da rede ao backup.
+Entusiasta de cibersegurança, formado em Análise e Desenvolvimento de Sistemas, com anos de experiência em infraestrutura e redes.
+Hoje desenvolvo sistemas para empresas e cuido dos servidores onde eles rodam.
 
-- **ERPs e sistemas web** com Python, Django e PostgreSQL, feitos primeiro para o celular (PWA)
-- **Ferramentas para Windows** em Rust
-- **Infra e sysadmin:** Linux, Windows/AD, redes, MikroTik, monitoramento com Zabbix
-- **Segurança e LGPD** desde o começo do projeto: criptografia, auditoria, controle de acesso
-- Uso agentes de IA no dia a dia para planejar, revisar e testar
+- **Infra e redes:** Linux, Windows/AD, MikroTik, Docker, monitoramento com Zabbix
+- **Segurança:** controle de acesso, criptografia, auditoria e LGPD
+- **Desenvolvimento:** Python, Django, PostgreSQL e Rust
 
 ### Stack
 
