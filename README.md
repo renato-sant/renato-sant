@@ -48,4 +48,12 @@ Hoje desenvolvo sistemas para empresas e cuido dos servidores onde eles rodam.
 
 <img src="https://streak-stats.demolab.com?user=renato-sant&locale=pt_BR&hide_border=true&background=1C0D3A&stroke=4A2580&ring=D97757&fire=D97757&currStreakLabel=39FF88&sideLabels=E6DCFF&dates=B9A6E0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=renato-sant&bg_color=1c0d3a&color=e6dcff&title_color=d97757&line=d97757&point=39ff88&area=true&area_color=d97757&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20por%20dia" alt="Contribuições por dia" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renato-sant/renato-sant/output/cobrinha-escuro.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renato-sant/renato-sant/output/cobrinha-claro.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/renato-sant/renato-sant/output/cobrinha-claro.svg" />
+</picture>
+
 </div>
